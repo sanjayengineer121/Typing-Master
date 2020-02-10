@@ -1,0 +1,16 @@
+{
+  "name": "Typing Master",
+  "version": "1.0.0",
+  "description": "Speed typing game written in vanilla JS",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Sanjay Kumar Yadav",
+  "license": "Nothing",
+  "homepage": "https://github.com/sanjayengineer121",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "gh-pages": "^1.2.0"
+  }
+}
